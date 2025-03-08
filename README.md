@@ -30,7 +30,7 @@ Screenshots:-
 ![sidemenu_one](https://github.com/user-attachments/assets/dae1c7f6-0d4f-4b21-ae62-e373cb423ca4)
 
 Recording:-
-https://github.com/user-attachments/assets/ba07117d-5e6f-4a32-9811-1d8a6d3bdffb
+
 
 
 
